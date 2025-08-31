@@ -12,7 +12,6 @@ const Index = () => {
         <DiagnosticTable />
       </section>
 
-      <div className="min-h-screen bg-gradient-to-br from-white via-purple-50 to-turquoise-50">
       {/* Navigation */}
       <nav className="fixed top-0 w-full bg-white/90 backdrop-blur-md z-50 border-b">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
